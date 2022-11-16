@@ -1,0 +1,2 @@
+# hogosyatouroku
+GoogleClassroomに保護者メールアドレスを登録します
