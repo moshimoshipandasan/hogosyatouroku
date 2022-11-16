@@ -1,2 +1,5 @@
 # hogosyatouroku
 GoogleClassroomに保護者メールアドレスを登録します
+GoogleフォームからGoogleClassroomに保護者用メールアドレスを登録するスクリプトです。
+フォームのひな形はこちらになります。
+https://docs.google.com/forms/d/1oDTUDCl0MfgbcFQMoxCH4BSd-d_0FUH4K0QbhVfzuAE/copy
